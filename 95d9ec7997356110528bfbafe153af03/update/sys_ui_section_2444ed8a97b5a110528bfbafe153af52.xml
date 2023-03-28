@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="2444ed8a97b5a110528bfbafe153af52" sys_domain="global" table="csm_consumer" version="3" view="demo">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-27 00:21:08</sys_created_on>
+            <sys_id>2c44ed8a97b5a110528bfbafe153af55</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="csm_consumer" sys_domain="global" view="2044ed8a97b5a110528bfbafe153af10">2444ed8a97b5a110528bfbafe153af52</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-27 00:21:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_name</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-27 00:21:08</sys_created_on>
+            <sys_id>a044ed8a97b5a110528bfbafe153af56</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="csm_consumer" sys_domain="global" view="2044ed8a97b5a110528bfbafe153af10">2444ed8a97b5a110528bfbafe153af52</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-27 00:21:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>gender</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-27 00:21:08</sys_created_on>
+            <sys_id>2444ed8a97b5a110528bfbafe153af56</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="csm_consumer" sys_domain="global" view="2044ed8a97b5a110528bfbafe153af10">2444ed8a97b5a110528bfbafe153af52</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-27 00:21:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_birthday</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-27 00:21:08</sys_created_on>
+            <sys_id>a444ed8a97b5a110528bfbafe153af56</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="csm_consumer" sys_domain="global" view="2044ed8a97b5a110528bfbafe153af10">2444ed8a97b5a110528bfbafe153af52</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-27 00:21:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_address</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-27 00:21:08</sys_created_on>
+            <sys_id>2844ed8a97b5a110528bfbafe153af56</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="csm_consumer" sys_domain="global" view="2044ed8a97b5a110528bfbafe153af10">2444ed8a97b5a110528bfbafe153af52</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-27 00:21:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>csm_consumer</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-03-27 00:21:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2444ed8a97b5a110528bfbafe153af52</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>csm_consumer</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Demo BlueShip" source="95d9ec7997356110528bfbafe153af03">95d9ec7997356110528bfbafe153af03</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Demo BlueShip">95d9ec7997356110528bfbafe153af03</sys_scope>
+            <sys_update_name>sys_ui_section_2444ed8a97b5a110528bfbafe153af52</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-03-27 00:21:08</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="demo" name="demo">2044ed8a97b5a110528bfbafe153af10</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

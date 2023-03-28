@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="display_image=photo,iterativeDelete=true,ref_ac_columns=email,ref_ac_columns_search=true,ref_ac_order_by=name,ref_auto_completer=AJAXTableCompleter" audit="true" db_object_id="f19dc96997312110528bfbafe153af1b" label="コンシューマー" max_length="40" name="csm_consumer" text_index="true" type="collection">
+        <element label="住所" max_length="100" name="u_address" type="string"/>
+        <element label="生年月日" max_length="40" name="u_birthday" type="glide_date"/>
+        <element label="世帯主氏名" max_length="32" name="u_name" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="u_name"/>
+        </index>
+    </element>
+</database>

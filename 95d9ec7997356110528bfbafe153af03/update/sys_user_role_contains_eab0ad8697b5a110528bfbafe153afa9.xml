@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="sn_request_write" name="sn_request_write">89d4c6040f103300402c6b198b767e3c</contains>
+        <role display_value="市担当者ロール" name="市担当者ロール">981aa4b997356110528bfbafe153afb8</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-27 00:05:42</sys_created_on>
+        <sys_id>eab0ad8697b5a110528bfbafe153afa9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_request_write.市担当者ロール</sys_name>
+        <sys_package display_value="Demo BlueShip" source="95d9ec7997356110528bfbafe153af03">95d9ec7997356110528bfbafe153af03</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo BlueShip">95d9ec7997356110528bfbafe153af03</sys_scope>
+        <sys_update_name>sys_user_role_contains_eab0ad8697b5a110528bfbafe153afa9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-27 00:05:42</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>
