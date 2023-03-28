@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="子育て補助金申請">bb05210e97b5a110528bfbafe153af13</catalog_item>
+        <catalog_variable>IO:4f962d0e97b5a110528bfbafe153af36</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-27 00:50:13</sys_created_on>
+        <sys_id>6cea618297f5a110528bfbafe153af90</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>oath_confirm_day</sys_name>
+        <sys_package display_value="Demo BlueShip" source="95d9ec7997356110528bfbafe153af03">95d9ec7997356110528bfbafe153af03</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo BlueShip">95d9ec7997356110528bfbafe153af03</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_6cea618297f5a110528bfbafe153af90</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-27 00:50:13</sys_updated_on>
+        <table/>
+        <ui_policy display_value="checkbokがチェックされた時の動作">2f5a294297f5a110528bfbafe153afdb</ui_policy>
+        <variable>oath_confirm_day</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+</record_update>

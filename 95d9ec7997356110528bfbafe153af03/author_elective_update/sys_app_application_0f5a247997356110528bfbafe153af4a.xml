@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="DELETE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name/>
+        <order/>
+        <roles>市担当者ロール,市承認者ロール</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-26 01:29:41</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0f5a247997356110528bfbafe153af4a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Demo BlueShip</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Demo BlueShip" source="95d9ec7997356110528bfbafe153af03">95d9ec7997356110528bfbafe153af03</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo BlueShip">95d9ec7997356110528bfbafe153af03</sys_scope>
+        <sys_update_name>sys_app_application_0f5a247997356110528bfbafe153af4a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-26 01:29:41</sys_updated_on>
+        <title>Demo BlueShip</title>
+        <view_name/>
+    </sys_app_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Demo BlueShip">95d9ec7997356110528bfbafe153af03</application>
+        <file_path/>
+        <instance_id>865c8b10dbf0dcd8f37acac50596190b</instance_id>
+        <instance_name>dev103099</instance_name>
+        <name>sys_app_application_0f5a247997356110528bfbafe153af4a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="">Custom Applications</category><description/><device_type>browser</device_type><hint/><name/><order/><roles>市担当者ロール,市承認者ロール</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-26 01:29:41</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>0f5a247997356110528bfbafe153af4a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Demo BlueShip</sys_name><sys_overrides/><sys_package display_value="Demo BlueShip" source="95d9ec7997356110528bfbafe153af03">95d9ec7997356110528bfbafe153af03</sys_package><sys_policy/><sys_scope display_value="Demo BlueShip">95d9ec7997356110528bfbafe153af03</sys_scope><sys_update_name>sys_app_application_0f5a247997356110528bfbafe153af4a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-26 01:29:41</sys_updated_on><title>Demo BlueShip</title><view_name/></sys_app_application></record_update>]]></payload>
+        <payload_hash>336462727</payload_hash>
+        <record_name>Demo BlueShip</record_name>
+        <reverted_from/>
+        <source>bbcb8b86c59021108c8b506e733c4c8d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-26 01:29:41</sys_created_on>
+        <sys_id>875aecb997356110528bfbafe153af38</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1871b8915fe0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-26 01:29:41</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>cf5aecb9ae356110d5ce0170fc07b937</update_guid>
+        <update_guid_history>cf5aecb9ae356110d5ce0170fc07b937:336462727</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Demo BlueShip">7ca3060e9739a110528bfbafe153afdc</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-27 02:38:14</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_application">sys_app_application</sys_db_object>
+        <sys_id>44b560a34c994e449f51d152131c6864</sys_id>
+        <sys_metadata>0f5a247997356110528bfbafe153af4a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Demo BlueShip</sys_name>
+        <sys_package display_value="Demo BlueShip" source="95d9ec7997356110528bfbafe153af03">95d9ec7997356110528bfbafe153af03</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Demo BlueShip">95d9ec7997356110528bfbafe153af03</sys_scope>
+        <sys_scope_delete display_value="">5a3d836307864d35a04763db970d2019</sys_scope_delete>
+        <sys_update_name>sys_app_application_0f5a247997356110528bfbafe153af4a</sys_update_name>
+        <sys_update_version display_value="sys_app_application_0f5a247997356110528bfbafe153af4a">875aecb997356110528bfbafe153af38</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-27 02:38:14</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
